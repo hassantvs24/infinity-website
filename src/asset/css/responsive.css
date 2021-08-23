@@ -1,0 +1,144 @@
+
+@media (max-width: 575.98px) {
+    .topTitle{font-size: 30px;}
+    .topSubTitle{font-size: 16px;}
+    .serviceName{font-size: 16px;}
+    .serviceDescription{font-size: 12px;padding: 3px 3px 3px 3px;}
+    .serviceMainTitle{margin-top: 2rem;margin-bottom: 2rem;font-size: 22px;}
+    .serviceCard{margin: 5px 3px 3px 3px;}
+    .des{font-size: 12px;margin-top: 10px;}
+    .countSection{margin-top: 2rem;}
+    .countNumber{font-size: 28px;}
+    .countTitle{font-size: 16px;}
+    .workCard{margin-top:1rem;}
+    .SummaryBanner{min-height:580px;}
+    .SummaryBannerOverlay{min-height:580px;}
+    .projectMainTitle{margin-top: 2rem;margin-bottom: 2rem;font-size: 22px;}
+    .projectCardTitle{font-size: 6px;}
+    .SoftwareMainTitle{margin-top:2rem;margin-bottom: 1rem;font-size: 22px;}
+    .SoftwareSubTitle{margin-bottom: 2rem;font-size: 14px;}
+    .videoMainTitle{margin-top: 2rem;margin-bottom: 1rem;font-size: 22px;}
+    .videoSubTitle{font-size: 20px;}
+    .videoDes{font-size: 14px;}
+    .playBtn{font-size: 32px;margin-top: 20px;}
+    .ClientMainTitle{margin-top: 2rem;margin-bottom: 2rem;font-size: 22px;}
+    .clientName{font-size: 18px;}
+    .clientTitle{font-size: 16px;}
+    .ClientDescription{font-size: 14px;}
+    .footerName{font-size: 18px;padding: 2px;margin-top: 2px;text-align:center;}
+    .socialLink{font-size: 12px;margin-left: 42%;}
+    .footerLink{font-size: 12px;margin-left: 42%;}
+    .footerDescription{font-size: 12px;text-align:center;}
+    .copyrightLink{font-size: 18px;}
+    .TeamCard{height: 20rem;padding: 0px 5px 60px 5px;margin: 2px 2px 2px 2px;}
+    .teamImg{max-height:200px; width:80%;}
+    .TeamName{margin-top: 1rem;font-size: 20px;}
+    .TeamSubTitle{font-size: 16px;}
+    .courseMainTitle{margin-top: 2rem;margin-bottom: 2rem;font-size: 22px;}
+    .courseTitle{font-size: 16px;}
+    .courseSubTitle{font-size: 10px;}
+    .courseDetails{font-size: 16px;}
+    .CoursePageTitle {font-size: 22px;}
+    .CoursePageSubTitle{font-size: 16px;}
+    .CourseDetailsImg{margin-top: 10%;}
+    .ContactName{font-size: 18px;margin-top: 2px;}
+    .contactImg{margin-top: 10%;margin-left: 0px;}
+    .AboutName {font-size: 18px;margin-top: 2px;}
+    .AboutDescription{font-size: 12px;}
+
+
+
+
+
+    }
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .topTitle{font-size: 30px;}
+    .topSubTitle{font-size: 16px;}
+    .serviceName{font-size:18px;}
+    .serviceMainTitle{margin-top: 2rem;margin-bottom: 2rem;font-size: 24px;}
+    .des{font-size: 12px;margin-top: 10px;}
+    .countSection{margin-top: 2rem;}
+    .countNumber{font-size: 28px;}
+    .countTitle{font-size: 16px;}
+    .workCard{margin-top:1rem;}
+    .SummaryBanner{min-height:580px;}
+    .SummaryBannerOverlay{min-height:580px;}
+    .projectMainTitle{margin-top: 2rem;margin-bottom: 2rem;font-size: 24px;}
+    .projectCardTitle{font-size: 10px;}
+    .SoftwareMainTitle{margin-top:2rem;margin-bottom: 2rem;font-size: 24px;}
+    .SoftwareSubTitle{margin-bottom: 2rem;font-size: 16px;}
+    .videoMainTitle{margin-top: 2rem;margin-bottom: 1rem;font-size: 24px;}
+    .videoSubTitle{font-size: 20px;}
+    .videoDes{font-size: 14px;}
+    .playBtn{font-size: 35px;margin-top: 20px;}
+    .ClientMainTitle{margin-top: 2rem;margin-bottom: 2rem;font-size: 24px;}
+    .clientName{font-size: 18px;}
+    .clientTitle{font-size: 16px;}
+    .ClientDescription{font-size: 14px;}
+    .footerName{font-size: 18px;padding: 2px;margin-top: 2px;text-align:center;}
+    .socialLink{font-size: 12px;margin-left: 42%;}
+    .footerLink{font-size: 12px;margin-left: 42%;}
+    .footerDescription{font-size: 12px;text-align:center;}
+    .copyrightLink{font-size: 18px;}
+    .TeamCard{height: 20rem;padding: 0px 10px 60px 10px;margin: 5px 2px 2px 2px;}
+    .teamImg{max-height:200px;width:80%;}
+    .TeamName{margin-top: 1rem;font-size: 20px;}
+    .TeamSubTitle{font-size: 16px;}
+    .courseMainTitle{margin-top: 2rem;margin-bottom: 2rem;font-size: 24px;}
+    .courseTitle{font-size: 16px;}
+    .courseSubTitle{font-size: 10px;}
+    .courseDetails{font-size: 16px;}
+    .AboutName{font-size: 24px;margin-top: 2px;}
+    .CourseDetailsImg{margin-top: 10%;}
+    .ContactName{font-size: 20px;margin-top: 2px;}
+    .contactImg{margin-top: 10%;margin-left: 0px;}
+    .AboutName {font-size: 18px;margin-top: 2px;}
+    .AboutDescription{font-size: 14px;}
+
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .serviceName{font-size:18px;}
+    .serviceDescription{font-size: 12px;padding: 4px 4px 4px 4px;}
+    .des{font-size: 12px;margin-top: 10px;}
+    .countSection{margin-top: 8rem;}
+    .countNumber{font-size: 35px;}
+    .countTitle{font-size: 18px;}
+    .SoftwareMainTitle{margin-top:2rem;margin-bottom: 2rem;}
+    .videoMainTitle{margin-top: 2rem;}
+    .videoDes{font-size: 14px;}
+    .playBtn{font-size: 40px;margin-top: 15px;}
+    .ClientMainTitle{margin-top: 2rem;margin-bottom: 2rem;}
+    .clientName{font-size: 20px;}
+    .clientTitle{font-size: 18px;}
+    .ClientDescription{font-size: 14px;}
+    .footerName{font-size: 20px;padding: 2px;margin-top: 2px;}
+    .socialLink{font-size: 14px;}
+    .footerLink{font-size: 12px;}
+    .copyrightLink{font-size: 20px;}
+    .courseMainTitle{margin-top: 2rem;margin-bottom: 2rem;}
+    .AboutName{font-size: 24px;margin-top: 2px;}
+    .contactImg{margin-top: 10%;margin-left: 0px;
+    }
+
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .contactImg{margin-top: 10%;margin-left: 0px;
+    }
+
+}
+
+
+@media (min-width: 1200px) {
+
+
+}
