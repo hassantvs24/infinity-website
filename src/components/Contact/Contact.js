@@ -46,21 +46,9 @@ class Contact extends Component {
 
                         <h1 className="AddName">Map</h1>
                         <hr/>
-
-
                         <div className="MapMain " >
-                            <Iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7238.448260402737!2d91.86697307320762!3d24.890335418473423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3751ab2a9b71b28f%3A0x5a6277f00574d4f3!2sBandar%20Bazar%2C%20Sylhet!5e0!3m2!1sen!2sbd!4v1603895106140!5m2!1sen!2sbd"
-                                width="500" height="450" frameBorder="0" style="border:0;" allowFullScreen=""
-                                aria-hidden="false" tabIndex="0">
-
-                            </Iframe>
-
-
+                            <Iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3619.1849429965123!2d91.8716468154655!3d24.891672450135154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3751ab2b25be8105%3A0x4e97a32cf9300bf4!2sInfinity%20Flame%20Soft!5e0!3m2!1sen!2sbd!4v1629719215562!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></Iframe>
                         </div>
-
-
-
                     </Col>
 
                 </Row>
